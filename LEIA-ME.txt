@@ -1,0 +1,9 @@
+PRATELEIRA DIGITAL - SITE VITRINE
+
+Abra index.html no navegador para visualizar.
+Para publicar, envie index.html e a pasta assets juntos para Cloudflare Pages, Netlify ou GitHub Pages.
+
+Site estático sem backend. Botões direcionam para páginas externas de venda.
+Identidade visual: imagens oficiais fornecidas via pasta Institucional no Google Drive.
+Preço do PC Rápido de Verdade não foi informado; consultar na página de vendas.
+Para alterar produtos e links, edite o arquivo index.html.
